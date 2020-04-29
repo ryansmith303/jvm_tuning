@@ -1,2 +1,1 @@
-# fastthread
 # jvm_tuning
